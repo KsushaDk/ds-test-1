@@ -1,0 +1,21 @@
+{
+  "name": "@ds-test/styles",
+  "version": "0.0.0",
+  "private": false,
+  "main": "./main.scss",
+  "scripts": {
+    "build": "sass main.scss dist/styles.css",
+    "build:watch": "sass --watch main.scss dist/styles.css"
+  },
+  "devDependencies": {
+    "sass": "1.62.1"
+  },
+  "files": [
+    "main.scss"
+  ],
+  "exports": {
+    "./styles": {
+      "default": "./dist/styles.css"
+    }
+  }
+}
