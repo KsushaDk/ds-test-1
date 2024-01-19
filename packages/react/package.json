@@ -1,7 +1,7 @@
 {
   "name": "@ds-test/react",
   "private": false,
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "React components for DS",
   "type": "module",
   "main": "dist/react.js",

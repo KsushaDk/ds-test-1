@@ -1,5 +1,11 @@
 # @ds-test/styles
 
+## 2.0.0
+
+### Major Changes
+
+- fix
+
 ## 1.0.0
 
 ### Major Changes
