@@ -34,6 +34,9 @@
     "./react": {
       "types": "./packages/react/dist/main.d.ts",
       "default": "./packages/react/dist/react.js"
+    },
+    "./styles": {
+      "default": "./packages/styles/dist/styles.css"
     }
   }
 }
