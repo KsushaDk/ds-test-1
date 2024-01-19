@@ -1,6 +1,6 @@
 {
   "name": "@ds-test/react",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "description": "React components for DS",
   "type": "module",
